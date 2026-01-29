@@ -8,7 +8,7 @@ El código calcula la ruta óptima minimizando la distancia geodésica entre ciu
 El conjunto de datos incluye ciudades como Ciudad de México, Quito, Miami, Buenos Aires, entre otras.
 
 ## Características del Algoritmo
-Basado en el reporte del proyecto, la implementación incluye:
+La implementación incluye:
 
 * **Selección:** Torneo y Ranking.
 * **Cruce (Crossover):** PBX (Position-Based) y PMX (Partially Mapped).
@@ -22,9 +22,3 @@ El proyecto fue desarrollado en Python 3. Las dependencias principales son:
 * `geopy` (Cálculo de distancias geodésicas)
 * `numpy` (Operaciones matriciales)
 * `matplotlib` (Visualización)
-
-## Instalación y Uso
-
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/nombre-del-repo.git](https://github.com/TU_USUARIO/nombre-del-repo.git)
